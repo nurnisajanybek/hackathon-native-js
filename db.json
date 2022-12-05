@@ -1,0 +1,67 @@
+{
+  "photos": [
+    {
+      "photo": "https://shop.tumar.com/wp-content/uploads/2021/06/MG_3055-1.jpg",
+      "likes": "56789",
+      "comments": "567",
+      "views": "56789",
+      "id": 2
+    },
+    {
+      "photo": "https://shop.tumar.com/wp-content/uploads/2021/06/0W2A2619.jpg",
+      "likes": "678",
+      "comments": "678",
+      "views": "6789",
+      "id": 3
+    },
+    {
+      "photo": "https://shop.tumar.com/wp-content/uploads/2022/01/DSC00297-1320x875.jpg",
+      "likes": "54634",
+      "comments": "5385",
+      "views": "3546",
+      "id": 4
+    },
+    {
+      "photo": "https://shop.tumar.com/wp-content/uploads/2022/01/DSC00335-1320x1606.jpg",
+      "likes": "4734",
+      "comments": "543",
+      "views": "253",
+      "id": 5
+    },
+    {
+      "photo": "https://shop.tumar.com/wp-content/uploads/2022/01/DSC00367-1320x970.jpg",
+      "likes": "284",
+      "comments": "234",
+      "views": "64",
+      "id": 6
+    },
+    {
+      "photo": "https://shop.tumar.com/wp-content/uploads/2021/06/0W2A1746-1.jpg",
+      "likes": "3432",
+      "comments": "523",
+      "views": "532",
+      "id": 7
+    },
+    {
+      "photo": "https://shop.tumar.com/wp-content/uploads/2021/06/20-1-1320x1582.jpg",
+      "likes": "8989",
+      "comments": "90",
+      "views": "900000",
+      "id": 8
+    }
+  ],
+  "highlights": [
+    {
+      "url": "https://shop.tumar.com/wp-content/uploads/2021/06/0W2A1699.jpg",
+      "id": 1
+    },
+    {
+      "url": "https://shop.tumar.com/wp-content/uploads/2021/06/0W2A1746-1.jpg",
+      "id": 2
+    },
+    {
+      "url": "https://shop.tumar.com/wp-content/uploads/2021/06/0W2A1752.jpg",
+      "id": 3
+    }
+  ]
+}
